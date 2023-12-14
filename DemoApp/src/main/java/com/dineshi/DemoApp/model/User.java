@@ -1,4 +1,4 @@
-package com.dineshi.DemoApp;
+package com.dineshi.DemoApp.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

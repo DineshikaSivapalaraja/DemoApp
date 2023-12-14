@@ -1,5 +1,7 @@
-package com.dineshi.DemoApp;
+package com.dineshi.DemoApp.controller;
 
+import com.dineshi.DemoApp.model.User;
+import com.dineshi.DemoApp.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
