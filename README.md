@@ -15,3 +15,7 @@ and there's no separate view component.
 
 So, while I have the Model (User), the Controller (MainController), and the Repository (UserRepository), the "View" aspect is more implicit in the data returned by controller methods, 
 which is often in JSON format for RESTful APIs.
+
+-----------------------------------------------------------------------------------------------------------------
+Dependencies which is needed to consider when creating  this spring boot project
+![spring mysql](https://github.com/DineshikaSivapalaraja/DemoApp/assets/91914577/502cb86d-5d35-4df8-a8f5-6031376a7074)
